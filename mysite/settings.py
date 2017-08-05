@@ -25,7 +25,7 @@ SECRET_KEY = '42+ww#m3eetwz6ek&efkm)5lc33qke7qn02k=-$*8l%mcf&9lj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['duettoofdream.pythonanywhere.com',]
 
 
 # Application definition
